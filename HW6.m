@@ -1,4 +1,15 @@
 %HW6
+%GB comments
+1a 95 no axis labels
+1b 95 no axis labels
+1c 95 no axis labels
+1d 65 no axis labels. No commentary on the results
+1e 95 no axis labels.
+2a 95 no axis labels.
+2b 95 no axis labels.
+2c 95 no axis labels.
+Overall: 91
+
 clear all
 % Problem 1. Curve fitting. 
 % Part 1. Take 10 x values on the interval 0 < x <= 10 and then create y
